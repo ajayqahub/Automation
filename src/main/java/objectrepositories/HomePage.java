@@ -77,7 +77,7 @@ public class HomePage extends WebdriverUtility {
 			SignOutLnk.click();
 		}
 //git changes
-	System.out.println("hi git changes is here");
+	System.out.println("hi merging");
 	
 		
 
